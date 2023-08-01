@@ -10,5 +10,9 @@
 <br/>
 
 <br/>
+<img src="./img/page3.png" alt="page3" />
+<br/>
+
+<br/>
 <img src="./img/page2.png" alt="page2" />
 <br/>
